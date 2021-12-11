@@ -1,0 +1,339 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.29)  6 NOV 2021 01:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**asme2ej.tex
+(./asme2ej.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (./asme2ej.cls
+
+LaTeX Warning: You have requested document class `asme2ej',
+               but the document class provides `asme2e'.
+
+Document Class: asme2e 2001/2/14 v2.0 Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/mathptm.sty
+Package: mathptm 2020/03/25 PSNFSS-v9.3 Times w/ Math (SPQR, WaS) 
+
+
+Package mathptm Warning: This package is to be regarded as obsolete.
+(mathptm)                See the PSNFSS documentation.
+
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 32.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 32.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 33.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 34.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 38.
+) (c:/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+Ten Point
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+01.
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\tempbox=\box50
+\c@figure=\count184
+\c@table=\count185
+\@authcnt=\count186
+\@tmpcnt=\count187
+\bibindent=\dimen138
+\tempbox=\box51
+\minute=\count188
+\hour=\count189
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 94
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 94.
+
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count190
+\l__color_backend_stack_int=\count191
+\g__color_backend_stack_int=\count192
+\g__graphics_track_int=\count193
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count194
+\g__pdf_backend_annotation_int=\count195
+\g__pdf_backend_link_int=\count196
+) (./asme2ej.aux)
+\openout1 = `asme2ej.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
+4.
+
+(c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+\big@size=\dimen141
+LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line
+ 96.
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line
+ 96.
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
+ 96.
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+psycm on input line
+ 96.
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+6.
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+
+Underfull \hbox (badness 10000) detected at line 96
+[]
+ []
+
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 96
+.
+LaTeX Font Info:    No file TUphv.fd. on input line 96.
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 96.
+
+Missing character: There is no Å ("C5) in font phvb7t!
+Missing character: There is no Å ("C5) in font phvb7t!
+
+LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 100.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 110.
+
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 12
+0.
+LaTeX Font Info:    No file TUpcr.fd. on input line 120.
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 120.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
+(Font)              using `TU/ptm/m/n' instead on input line 120.
+
+
+LaTeX Warning: Citation `asmemanual' on page 1 undefined on input line 120.
+
+
+LaTeX Warning: Citation `latex' on page 1 undefined on input line 120.
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 120--121
+[]\TU/ptm/m/sc/10 This article illustrates preparation of ASME
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 120--121
+\TU/ptm/m/sc/10 the BibT[]X style file [][]asmems4.bst[], and the tem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+\TU/ptm/m/sc/10 plate [][]asme2ej.tex []that create this article are
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 120--121
+\TU/ptm/m/sc/10 available on the WWW at the URL address
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 120--121
+[][]\TU/ptm/m/sc/10 http://iel.ucdavis.edu/code/[]. To ensure compli-
+ []
+
+
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [1
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+File: figure/FMANU_MD_05_1107_11.jpg Graphic file (type bmp)
+<figure/FMANU_MD_05_1107_11.jpg>
+
+[2]
+File: figure/FMANU_MD_05_1272_5.jpg Graphic file (type bmp)
+<figure/FMANU_MD_05_1272_5.jpg>
+File: figure/FMANU_MD_04_1274_13.jpg Graphic file (type bmp)
+<figure/FMANU_MD_04_1274_13.jpg>
+File: figure/FMANU_MD_04_1274_13.jpg Graphic file (type bmp)
+<figure/FMANU_MD_04_1274_13.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+
+LaTeX Warning: Citation `goosens' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `art' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `blt' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `ibk' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `icn' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `ips' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `mts' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `mis' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `pro' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `pts' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `trt' on page 5 undefined on input line 309.
+
+
+LaTeX Warning: Citation `upd' on page 5 undefined on input line 309.
+
+No file asme2ej.bbl.
+[5] (./asme2ej.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1357 strings out of 476493
+ 21557 string characters out of 5820669
+ 345005 words of memory out of 5000000
+ 21789 multiletter control sequences out of 15000+600000
+ 421952 words of font info for 72 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,11n,66p,1045b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on asme2ej.pdf (5 pages).
